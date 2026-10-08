@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="288" viewBox="0 0 1000 288" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<style>
+.pulse{animation:p 1.8s ease-in-out infinite}
+.pulse2{animation:p 1.8s ease-in-out .6s infinite}
+.blink{animation:b 1s steps(2,start) infinite}
+.scan{animation:s 5s linear infinite}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes b{to{visibility:hidden}}
+@keyframes s{0%{transform:translateY(-20px)}100%{transform:translateY(288px)}}
+</style>
+<rect width="1000" height="288" fill="#070d1c"/>
+<rect x="4" y="4" width="992" height="220" fill="#0a1428" stroke="#1e3a6b" stroke-width="1.5"/><path d="M4,20 V4 H20 M980,4 H996 V20 M996,208 V224 H980 M20,224 H4 V208" fill="none" stroke="#38d9ff" stroke-width="3"/><text x="26" y="34" font-size="13" fill="#38d9ff" letter-spacing="1">COMMS  //  CONTACT</text><line x1="26" y1="48" x2="974" y2="48" stroke="#1e3a6b" stroke-width="1"/><circle class="pulse" cx="46" cy="90" r="6" fill="#38d9ff"/><text x="68" y="96" font-size="18" fill="#38d9ff">CH-1   GITHUB</text><text x="330" y="96" font-size="18" fill="#e6efff">github.com/UMAMAHESWARI1103</text><circle class="pulse2" cx="46" cy="140" r="6" fill="#3df08a"/><text x="68" y="146" font-size="18" fill="#3df08a">CH-2   LINKEDIN</text><text x="330" y="146" font-size="18" fill="#e6efff">linkedin.com/in/uma-maheswari-b08292263</text><circle class="pulse" cx="46" cy="190" r="6" fill="#ffb42e"/><text x="68" y="196" font-size="18" fill="#ffb42e">CH-3   EMAIL</text><text x="330" y="196" font-size="18" fill="#e6efff">umamaheswari2t3@gmail.com</text><text x="500.0" y="266" font-size="17" fill="#38d9ff" text-anchor="middle" letter-spacing="1">&gt;&gt; TRANSMISSION COMPLETE. AWAITING YOUR REPLY. &lt;&lt;<tspan class="blink"> _</tspan></text></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="126" viewBox="0 0 1000 126" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<style>
+.pulse{animation:p 1.8s ease-in-out infinite}
+.pulse2{animation:p 1.8s ease-in-out .6s infinite}
+.blink{animation:b 1s steps(2,start) infinite}
+.scan{animation:s 5s linear infinite}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes b{to{visibility:hidden}}
+@keyframes s{0%{transform:translateY(-20px)}100%{transform:translateY(126px)}}
+</style>
+<rect width="1000" height="126" fill="#070d1c"/>
+<rect x="4" y="4" width="235" height="110" fill="#0a1428" stroke="#1e3a6b" stroke-width="1.5"/><path d="M4,20 V4 H20 M223,4 H239 V20 M239,98 V114 H223 M20,114 H4 V98" fill="none" stroke="#38d9ff" stroke-width="3"/><text x="24" y="38" font-size="12" fill="#7f93b5" letter-spacing="1">MCA CGPA</text><text x="24" y="90" font-size="40" font-weight="bold" fill="#3df08a">8.9</text><rect x="257" y="4" width="235" height="110" fill="#0a1428" stroke="#1e3a6b" stroke-width="1.5"/><path d="M257,20 V4 H273 M476,4 H492 V20 M492,98 V114 H476 M273,114 H257 V98" fill="none" stroke="#38d9ff" stroke-width="3"/><text x="277" y="38" font-size="12" fill="#7f93b5" letter-spacing="1">PROJECTS</text><text x="277" y="90" font-size="40" font-weight="bold" fill="#38d9ff">03</text><rect x="510" y="4" width="235" height="110" fill="#0a1428" stroke="#1e3a6b" stroke-width="1.5"/><path d="M510,20 V4 H526 M729,4 H745 V20 M745,98 V114 H729 M526,114 H510 V98" fill="none" stroke="#38d9ff" stroke-width="3"/><text x="530" y="38" font-size="12" fill="#7f93b5" letter-spacing="1">CERTIFICATIONS</text><text x="530" y="90" font-size="40" font-weight="bold" fill="#ffb42e">02</text><rect x="763" y="4" width="235" height="110" fill="#0a1428" stroke="#1e3a6b" stroke-width="1.5"/><path d="M763,20 V4 H779 M982,4 H998 V20 M998,98 V114 H982 M779,114 H763 V98" fill="none" stroke="#38d9ff" stroke-width="3"/><text x="783" y="38" font-size="12" fill="#7f93b5" letter-spacing="1">INTERNSHIP</text><text x="783" y="90" font-size="40" font-weight="bold" fill="#3df08a">01</text></svg>
