@@ -6,15 +6,7 @@
 <img src="assets/modules.svg" alt="System modules — tech stack" width="100%"/>
 <img src="assets/missions.svg" alt="Active missions — projects" width="100%"/>
 
-<!-- clickable project links (links inside an SVG image can't be clicked) -->
-<sub>
-🔗 <a href="https://github.com/UMAMAHESWARI1103/Sales-Dashboard-Analysis">Sales Dashboard repo</a> ·
-<a href="https://www.linkedin.com/posts/uma-maheswari-b08292263_powerbi-dataanalytics-datavisualization-share-7462118252278886400-dLKd/">demo</a> &nbsp;|&nbsp;
-<a href="https://github.com/UMAMAHESWARI1103/Speech_Emotion_recognition">Speech Emotion repo</a> ·
-<a href="https://speech-emotion-recognition-f395.onrender.com/">live</a> &nbsp;|&nbsp;
-<a href="https://github.com/UMAMAHESWARI1103/intern-project">Flutter repo</a> ·
-<a href="https://www.linkedin.com/posts/uma-maheswari-b08292263_demo-ugcPost-7462125844740681728-8XrN/">demo</a>
-</sub>
+
 
 <img src="assets/timeline.svg" alt="Flight log — timeline" width="100%"/>
 <img src="assets/comms.svg" alt="Comms — contact" width="100%"/>
